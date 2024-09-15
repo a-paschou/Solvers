@@ -5,6 +5,7 @@
 Analyzer::Analyzer(Model* model, Solver* solver)
 	: model {model}, solver{ solver }
 {
+	int a{};
 }
 
 void Analyzer::Solve()
